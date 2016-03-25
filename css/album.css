@@ -1,0 +1,135 @@
+#navHead {
+  background: rgb(10, 24, 11);
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.navbar-collapse .container-fluid {
+  padding: 2rem 2.5rem;
+  border-bottom: 1px solid #55595c;
+}
+
+.navbar-collapse h4 {
+  color: #818a91;
+}
+
+.navbar-collapse .text-muted {
+  color: #818a91;
+}
+
+.about {
+  float: left;
+  max-width: 30rem;
+  margin-right: 3rem;
+}
+
+#bioPic {
+  width: 150px;
+  float: left;
+  margin: 1em;
+}
+
+.social a {
+  font-weight: 500;
+  color: #777;
+}
+.social a:hover {
+  color: #222;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+#hero {
+  background-image:url('../img/hero.png');
+  background-size: cover;
+  background-position: 0 30%;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+  color: #fff;
+}
+
+#intro {
+  color: #ddd;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+  background: rgb(10, 24, 11); /* Fall-back for browsers that don't support rgba */
+  background: rgba(10, 24, 11, .5);
+  padding: 10px;
+}
+
+.album {
+  min-height: 50rem; /* Can be removed; just added for demo purposes */
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
+}
+
+.card {
+  float: left;
+  width: 50%;
+  padding: .75rem;
+  margin-bottom: 2rem;
+  border: 0;
+  text-align: center;
+}
+
+.card > img {
+  margin-bottom: .75rem;
+}
+
+.card-text {
+  font-size: 85%;
+}
+
+.cap {
+  border-radius: 50%;
+  border: 2px solid #999;
+  width: 100%;
+  max-width: 300px;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background: rgb(10, 24, 11);
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+#HSLogo {
+  width: 170px;
+}
+
+.galleryPic {
+  margin-bottom: 1em;
+  max-width: 98%;
+}
+
+.galleryPicLast {
+  margin-bottom: 0;
+}
+
+.dialogueBox {
+  text-align: center;
+}
